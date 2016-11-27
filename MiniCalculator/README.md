@@ -3,10 +3,10 @@ Mini Calculator (Android Application)
 
 # Details
 This is simple lollypop UI android application. It has all basic function like addition,subtraction, multiplication and division. There are some extra scientific function like trigonometric, logirithmic, exponential and factorial.
-Click here for [download](MiniCalculator.apk) this application.
+Click here for [download](Mini Calculator.apk) this application.
 
 # Output
-![screenshot](screenshot(1).png) ![screenshot](screenshot (2).png) ![screenshot](screenshot-(3).png) ![screenshot](screenshot_(4).png)
+![screenshot](screenshot (1).png) ![screenshot](screenshot (2).png) ![screenshot](screenshot (3).png) ![screenshot](screenshot (4).png)
 
 # Software Required
 * Android Studio
