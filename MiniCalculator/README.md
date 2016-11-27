@@ -6,7 +6,12 @@ This is simple lollypop UI android application. It has all basic function like a
 Click here for [download](Mini Calculator.apk) this application.
 
 # Output
-![screenshot](screenshot (1).png) ![screenshot](screenshot (2).png) ![screenshot](screenshot (3).png)
+### Starting page
+![screenshot](screenshot (1).png) 
+### Output of 1+3
+![screenshot](screenshot (2).png) 
+### Output of factorial(12)
+![screenshot](screenshot (3).png)
 
 # Software Required
 * Android Studio
