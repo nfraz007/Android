@@ -2,7 +2,8 @@
 Lazy Keyboard (Android Application)
 
 # Details
-    This is my first simple and basic application for android. 
+This is my first simple and basic application for android.
+Click here for [download](LazyKeyboard.apk) this application.
 
 # Output
 ![screenshot](screenshot.png)
