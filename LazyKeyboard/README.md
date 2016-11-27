@@ -5,7 +5,7 @@ Lazy Keyboard (Android Application)
     This is my first simple and basic application for android. 
 
 # Output
-![screenshot](screenshot.png =100x)
+![screenshot](screenshot.png)
 
 # Software Required
 * Android Studio
