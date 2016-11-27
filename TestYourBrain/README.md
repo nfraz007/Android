@@ -9,10 +9,15 @@ This is a simple game for testing your brain. There are lots of features.
 Click here for [download](TestYourBrain.apk) this application.
 
 # Output
-![screenshot](screenshot (1).png | width=100) 
-![screenshot](screenshot (2).png =100*50) 
-![screenshot](screenshot (3).png){:height="100px" width="50px"}
-![screenshot](screenshot (4).png =100x50)
+### Level Layout
+![screenshot](screenshot (1).png) 
+### Setting
+![screenshot](screenshot (2).png) 
+### Introduction for each level
+![screenshot](screenshot (3).png)
+### Starting the level
+![screenshot](screenshot (4).png)
+### Gameover
 ![screenshot](screenshot (5).png)
 
 # Software Required
