@@ -6,7 +6,7 @@ This is simple lollypop UI android application. It has all basic function like a
 Click here for [download](Mini Calculator.apk) this application.
 
 # Output
-![screenshot](screenshot (1).png) ![screenshot](screenshot (2).png) ![screenshot](screenshot (3).png) ![screenshot](screenshot (4).png)
+![screenshot](screenshot (1).png) ![screenshot](screenshot (2).png) ![screenshot](screenshot (3).png)
 
 # Software Required
 * Android Studio
